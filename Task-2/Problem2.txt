@@ -1,0 +1,27 @@
+Problem2
+// This program will allow user to find the nth fibonacci number.
+ 
+Declare integer m, n, d, a, b, t
+Get input m
+Assign n=m+1
+      if n>2
+           assign d=2
+           assign a=0
+           assign b=1
+         do 
+            assign t=a+b
+            assign a=b
+            assign b=t
+            assign d=d+1 
+         while d<n
+         display t  
+      else
+           if n=1
+              print "0"
+           else 
+              print"1"
+	   end if
+      end if
+end
+       
+
