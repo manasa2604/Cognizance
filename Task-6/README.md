@@ -43,7 +43,7 @@ View Our Landing Page ⬇️ <br>
 #
 <p style='text-align: justify;'> No matter if you are looking for a great babysitter or babysitting job, Offduty makes it easy and transparent. You are in full control of your profile, prices, who you choose to work with and how you interact with other members. </p> <br>
 <font face="monaco" size="3" color = bc544b
-<font> _We strongly recommend to rate our babysitters everytime:)_ </font>
+<font> We strongly recommend to rate our babysitters everytime:) </font>
 
 
 <font face="arial narrow" size="40" color = 588BAE > <b> ... </font>
