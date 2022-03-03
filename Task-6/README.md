@@ -59,7 +59,7 @@ This webpage is limited to just baby sitters and parents. It is planned to :
 - Offer training for baby sitters considering all age groups.
 - Propose to market baby products, children counselling etc. 
 - Indroduce pet care, elderly care, house care etc.,
-</font
+
 
  <font face="arial narrow" size="40" color = 588BAE > <b> ... </font>
 <p style='text-align: justify;'>  </p>
